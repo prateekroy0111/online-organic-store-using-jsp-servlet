@@ -1,0 +1,14 @@
+com\mycompany\organic\entities\Category.class
+com\mycompany\organic\entities\Product.class
+com\mycompany\organic\servlets\RegisterServlet.class
+com\mycompany\organic\dao\ProductDao.class
+com\mycompany\organic\helper\Helper.class
+com\mycompany\organic\servlets\DeleteCategoryServlet.class
+com\mycompany\organic\servlets\DeleteProductServlet.class
+com\mycompany\organic\entities\User.class
+com\mycompany\organic\dao\CategoryDao.class
+com\mycompany\organic\dao\UserDao.class
+com\mycompany\organic\helper\FactoryProvider.class
+com\mycompany\organic\servlets\LogoutServlet.class
+com\mycompany\organic\servlets\LoginServlet.class
+com\mycompany\organic\servlets\ProductOperationServlet.class
